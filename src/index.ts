@@ -12,3 +12,8 @@ export * from './sorting/selection-sort';
 export * from './sorting/merge-sort';
 export * from './sorting/quick-sort';
 export * from './sorting/heap-sort';
+
+export * from './string-search/string-matcher';
+export * from './string-search/z-algo';
+
+export * from './maths/gaussian-elimination';
