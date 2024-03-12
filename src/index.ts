@@ -5,6 +5,7 @@ export * from './graphs/dijkstra-shortest-path';
 export * from './dynamic-programming/fibonacci-series';
 export * from './dynamic-programming/longest-common-sequence';
 export * from './dynamic-programming/knapsack-problem';
+export * from './dynamic-programming/hamiltonian-cycle';
 
 export * from './sorting/bubble-sort';
 export * from './sorting/selection-sort';
