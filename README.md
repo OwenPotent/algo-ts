@@ -14,6 +14,10 @@ To get started with this repository, you need to have Node.js installed on your 
 
 - Install the dependencies: `npm install`
 - Run the tests: `npm run dev` (This will run all files in the `src` directory)
+
+- If you want to run a specific file, you can do so by running the following command:
+  `npx ts-node src/<filename>.ts`
+
 - Lastly, relax and wait for your pull request to be merged!
 
 ## License
