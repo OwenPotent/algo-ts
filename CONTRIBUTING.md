@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing to Algo-ts
 
 Thank you for your interest in contributing to Algo-ts! We welcome contributions from the community to make this project better.
 
