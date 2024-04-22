@@ -6,6 +6,7 @@ export * from './dynamic-programming/fibonacci-series';
 export * from './dynamic-programming/longest-common-sequence';
 export * from './dynamic-programming/knapsack-problem';
 export * from './dynamic-programming/hamiltonian-cycle';
+export * from './dynamic-programming/matrix-chain-multiplication';
 
 export * from './sorting/bubble-sort';
 export * from './sorting/selection-sort';
@@ -17,3 +18,8 @@ export * from './string-search/string-matcher';
 export * from './string-search/z-algo';
 
 export * from './maths/gaussian-elimination';
+
+export * from './data-structures/stack';
+export * from './data-structures/tree';
+
+export * from './random/cupcake-conundrum';

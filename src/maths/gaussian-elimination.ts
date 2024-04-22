@@ -37,11 +37,3 @@ export default function gaussianElimination(matrix: number[][]): number[] {
 
     return coefficients;
 }
-
-const matrix = [
-    [2, 1, -1, 8],
-    [-3, -1, 2, -11],
-    [-2, 1, 2, -3]
-];
-
-console.log(gaussianElimination(matrix)); // [2, 3, -1]
